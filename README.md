@@ -15,9 +15,6 @@ I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile &
 
 ---
 
-<img align="right" width="360px"
-     src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
 ### 🧐 More About Me | Mehr über mich
 
 - 🔭 Currently working on **ERP Transformation & Oracle HCM Cloud implementations**
