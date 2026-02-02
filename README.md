@@ -12,7 +12,7 @@
 
 I am a **Senior ERP Project Manager & Oracle Consultant** with **15+ years of experience** delivering large-scale **ERP and Digital Transformation projects** across **public and private sectors** in the Middle East and Europe.
 
-I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile & Waterfall project delivery**, with a strong focus on **business value, stakeholder alignment, and operational excellence**.
+I specialize in **Oracle ERP & HCM Cloud**, **FIN / SCM / HCM modules**, and **Agile & Waterfall project delivery**, with a strong focus on **business value, stakeholder alignment, and operational excellence**.
 
 ---
 
@@ -25,4 +25,72 @@ I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile &
 - 🌱 **Currently learning Python 🐍** to enhance automation, data analysis, and technical capabilities
 - 🧠 Strong background in **Finance, Supply Chain, and Human Capital Management**
 - 🤝 Extensive experience with **Government & Enterprise-scale projects**
-- 🗺️ Based in **Germany (**
+- 🗺️ Based in **Germany (Deutschland)**
+- 💬 Ask me about **ERP, Oracle, Project Management, Agile/Scrum**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-eldardiry-62529389/)
+- 📝 CV available upon request
+
+---
+
+### 🔨 Core Skills & Tools | Fähigkeiten & Tools
+
+**ERP & Business Systems**
+- Oracle E-Business Suite R12 (FIN, SCM, HCM)
+- Oracle HCM Cloud
+- Data Migration & Integration
+- Business Process Re-engineering
+
+**Project & Delivery**
+- PMP® Project Management
+- Agile / Scrum / Hybrid Models
+- ITIL® v4
+- Change Management & Training
+- Stakeholder & Risk Management
+
+**Cloud & Technical**
+- AWS (EC2, S3, VPC)
+- Microsoft Azure (AZ-900, AZ-104, AZ-204, AZ-305, AZ-400)
+- Linux / UNIX Administration
+- 💻 Python (Learning & Practicing)
+
+---
+
+### 🏆 Certifications
+
+- PMP® Project Management Professional  
+- CSPO® Certified Scrum Product Owner  
+- ITIL® v4 Foundation  
+- Microsoft Azure Fundamentals (AZ-900)  
+- Oracle Certified (OCA, OCP, HCM Specialist)  
+- MCSE | MCSA | MCITP  
+- AWS Cloud Practitioner  
+
+---
+
+### 🌍 Languages | Sprachen
+
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — Very Good  
+- 🇩🇪 German — B1  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Eldardiry&show_icons=true&hide_title=true)
+
+---
+
+### 🏗️ Selected Projects & Clients
+
+- Ford-Werke GmbH *(Private Sector)*
+- Ministry of Finance (MOF)
+- Saudi Customs Authority (SCA)
+- Capital Markets Authority (CMA)
+- Banque Saudi Fransi (BSF)
+- Mohammed Binladin Company (MBLC)
+
+---
+
+> **Delivering ERP solutions that align technology with strategic business goals.**  
+> *Erfolg durch Struktur, Technologie und Zusammenarbeit.*
