@@ -1,14 +1,6 @@
 # Mostafa Eldardiry
 > *Man lernt nie aus* 🇩🇪 — One never stops learning 🚀
-
 ## 👋 Hi, I'm Mostafa Eldardiry
-<p align="center">
-  <img src="https://img.shields.io/badge/PMP-PMI-blue?style=for-the-badge&logo=pmi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-ERP-red?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-Scrum-green?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/PMP-PMI-blue?style=for-the-badge&logo=pmi&logoColor=white"/>
@@ -19,7 +11,6 @@
   <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 <br/>
-
 I am a **Oracle Practice - Project Manager** with **15+ years of experience** delivering large-scale **Digital Transformation projects** across **public and private sectors** in the Middle East and Europe.
 
 I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile & Waterfall project delivery**, with a strong focus on **business value, stakeholder alignment, and operational excellence**.
