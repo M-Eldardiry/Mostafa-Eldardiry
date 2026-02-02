@@ -3,10 +3,6 @@
 
 ## 👋 Hi, I'm Mostafa Eldardiry
 
-<a href="https://www.linkedin.com/in/mostafa-eldardiry-62529389/" target="_blank">
-  <img align="left" alt="LinkedIn" height="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>
-</a>
-
 <br/><br/>
 
 I am a **Oracle Practice - Project Manager** with **15+ years of experience** delivering large-scale **Digital Transformation projects** across **public and private sectors** in the Middle East and Europe.
