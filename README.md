@@ -34,6 +34,34 @@ I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile &
 
 ### 🔨 Core Skills & Tools | Fähigkeiten & Tools
 
+### 🧰 Technologies & Tools | Technologien & Tools
+
+#### 🏢 ERP & Business Systems
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle"/>
+</p>
+
+#### ☁️ Cloud & Infrastructure
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="42" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux"/>
+</p>
+
+#### 📊 Project & Delivery Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="42" alt="Confluence"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
+</p>
+
+#### 💻 Programming & Automation
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+</p>
+
+> 🐍 **Python – Currently learning | Python – In Lernphase**
+
 **ERP & Business Systems**
 - Oracle E-Business Suite R12 (FIN, SCM, HCM)
 - Oracle HCM Cloud
