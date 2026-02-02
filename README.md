@@ -12,7 +12,7 @@
 
 I am a **Senior ERP Project Manager & Oracle Consultant** with **15+ years of experience** delivering large-scale **ERP and Digital Transformation projects** across **public and private sectors** in the Middle East and Europe.
 
-I specialize in **Oracle ERP & HCM Cloud**, **FIN / SCM / HCM modules**, and **Agile & Waterfall project delivery**, with a strong focus on **business value, stakeholder alignment, and operational excellence**.
+I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile & Waterfall project delivery**, with a strong focus on **business value, stakeholder alignment, and operational excellence**.
 
 ---
 
