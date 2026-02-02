@@ -71,7 +71,7 @@ I specialize in **Oracle ERP & HCM Cloud**, **FIN / SCM / HCM modules**, and **A
 
 - 🇪🇬 Arabic — Native  
 - 🇬🇧 English — Very Good  
-- 🇩🇪 German — B1  
+- 🇩🇪 German — Good 
 
 ---
 
