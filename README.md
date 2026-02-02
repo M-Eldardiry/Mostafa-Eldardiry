@@ -11,13 +11,13 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/PMP-blue?style=flat-round&logo=pmi"/>
-  <img src="https://img.shields.io/badge/Oracle-red?style=flat-round&logo=oracle"/>
-  <img src="https://img.shields.io/badge/Agile-green?style=flat-round&logo=scrumalliance"/>
-  <img src="https://img.shields.io/badge/AWS-orange?style=flat-round&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=flat-round&logo=python"/>
+  <img src="https://img.shields.io/badge/PMP-PMI-blue?style=for-the-badge&logo=pmi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-ERP-red?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-green?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-Microsoft-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
-
 <br/>
 
 I am a **Oracle Practice - Project Manager** with **15+ years of experience** delivering large-scale **Digital Transformation projects** across **public and private sectors** in the Middle East and Europe.
