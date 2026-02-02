@@ -4,13 +4,12 @@
 ## 👋 Hi, I'm Mostafa Eldardiry
 
 <a href="https://www.linkedin.com/in/mostafa-eldardiry-62529389/" target="_blank">
-  <img align="left" alt="LinkedIn" height="20px"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>
+  <img align="left" alt="LinkedIn" height="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/>
 </a>
 
 <br/><br/>
 
-I am a **ERP Project Manager & Oracle Consultant** with **15+ years of experience** delivering large-scale **ERP and Digital Transformation projects** across **public and private sectors** in the Middle East and Europe.
+I am a **Oracle Practice - Project Manager** with **15+ years of experience** delivering large-scale **Digital Transformation projects** across **public and private sectors** in the Middle East and Europe.
 
 I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile & Waterfall project delivery**, with a strong focus on **business value, stakeholder alignment, and operational excellence**.
 
@@ -33,32 +32,6 @@ I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile &
 ---
 
 ### 🔨 Core Skills & Tools | Fähigkeiten & Tools
-
-### 🧰 Technologies & Tools | Technologien & Tools
-
-#### 🏢 ERP & Business Systems
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle"/>
-</p>
-
-#### ☁️ Cloud & Infrastructure
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="42" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux"/>
-</p>
-
-#### 📊 Project & Delivery Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42" alt="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="42" alt="Confluence"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
-</p>
-
-#### 💻 Programming & Automation
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
-</p>
 
 > 🐍 **Python – Currently learning | Python – In Lernphase**
 
@@ -106,17 +79,6 @@ I specialize in **Oracle ERP Cloud**, **FIN / SCM / HCM modules**, and **Agile &
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Eldardiry&show_icons=true&hide_title=true)
-
----
-
-### 🏗️ Selected Projects & Clients
-
-- Ford-Werke GmbH *(Private Sector)*
-- Ministry of Finance (MOF)
-- Saudi Customs Authority (SCA)
-- Capital Markets Authority (CMA)
-- Banque Saudi Fransi (BSF)
-- Mohammed Binladin Company (MBLC)
 
 ---
 
